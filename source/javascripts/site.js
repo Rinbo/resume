@@ -1,10 +1,10 @@
 //= jquery
-//= require vendor/jquery
-//= require vendor/bootstrap.bundle
-//= require vendor/all
-//= require vendor/jquery.easing
-//= require vendor/fontawesome
-//= require vendor/resume
+//= require vendor/jquery.min
+//= require vendor/bootstrap.bundle.min
+//= require vendor/all.min
+//= require vendor/jquery.easing.min
+//= require vendor/fontawesome.min
+//= require vendor/resume.min
 
 
 
