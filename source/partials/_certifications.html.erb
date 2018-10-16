@@ -5,7 +5,7 @@
       <% data.certifications.each do |cert|%>
         <li>
           <i class="fa-li fa fa-trophy text-warning"></i>
-          <%= link_to(cert[:name], cert[:link]) + " · #{cert[:authority]} · #{cert[:date]}" %>
+          <%= link_to(cert[:name], cert[:link]) + " · #{cert[:authority]}" %>
         </li>
       <%end%>
     </ul>
